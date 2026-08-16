@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "griefingspawnisbannable",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "vanillaminecraftnoru.aternos.me:28506",
+    "port": 28506,
     "version": "",
     "try-creative": false
   },
